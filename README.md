@@ -1,14 +1,7 @@
-![Sample Image](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRztL0WzSHxYdzc8FmFZ8pCYA8GxsAThVhioAoQIrfPmnM2527iMnLvRXyd_5VO1xYdRg&usqp=CAU)
-
-
-Here is a revised version of your README, rewritten to sound more like a personal project.
-
----
-
-# Walmart Sales Data Analysis (SQL Project)
+# Sales Data Analysis (SQL Project)
 
 ## About This Project
-This is a personal project where I analyze Walmart's sales data. My goal is to use SQL to explore sales patterns, identify high-performing branches and products, and understand customer behavior. The insights from this analysis could help in thinking about how to optimize sales strategies.
+This is a project where I analyzed Walmart's sales data. My goal is to use SQL to explore sales patterns, identify high-performing branches and products, and understand customer behavior. The insights from this analysis could help in thinking about how to optimize sales strategies.
 
 The dataset for this project comes from the Kaggle Walmart Sales Forecasting Competition. It covers sales transactions from three branches in Myanmar (Mandalay, Yangon, and Naypyitaw).
 
