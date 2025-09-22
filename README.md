@@ -1,4 +1,4 @@
-# Sales Data Analysis (SQL Project)
+# Sales Data Analysis
 
 ## About This Project
 This is a project where I analyzed Walmart's sales data. My goal is to use SQL to explore sales patterns, identify high-performing branches and products, and understand customer behavior. The insights from this analysis could help in thinking about how to optimize sales strategies.
